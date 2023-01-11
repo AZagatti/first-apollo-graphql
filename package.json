@@ -13,7 +13,7 @@
     "apollo-server": "^2.14.2",
     "graphql": "^15.0.0",
     "graphql-import": "^1.0.2",
-    "knex": "^0.21.1",
+    "knex": "^2.4.0",
     "mysql": "^2.16.0",
     "pg": "^8.0.3"
   },
